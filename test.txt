@@ -1,5 +1,3 @@
 bonjour
 
 hello world
-
-ligne 3
